@@ -4,9 +4,9 @@ import labtests.util.EnumTest;
 
 /**
  * Unit tests for the Suit enum.
- * 
+ *
  * @author Willow Sapphire
- * @version 08/01/2023
+ * @version 08 /01/2023
  */
 public class SuitTest extends EnumTest
 {
